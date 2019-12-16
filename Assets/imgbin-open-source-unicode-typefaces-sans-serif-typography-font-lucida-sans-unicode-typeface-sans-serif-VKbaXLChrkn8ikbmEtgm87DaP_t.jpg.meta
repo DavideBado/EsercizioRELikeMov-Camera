@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 03d5e4465877cdb40ad3fbc77547a5a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7648216084813964087
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_0
+  - first:
+      213: -4481581051255284106
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_1
+  - first:
+      213: -7326988813848631507
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_2
+  - first:
+      213: -6155774431474726362
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_3
+  - first:
+      213: 7318847455940156897
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_4
+  - first:
+      213: 1513179563034314545
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_5
+  - first:
+      213: 6476070664510922623
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_6
+  - first:
+      213: 3193793614941224249
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_7
+  - first:
+      213: 6757644817132721042
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_8
+  - first:
+      213: -6308551410688990027
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_9
+  - first:
+      213: 52779255656855173
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_10
+  - first:
+      213: -5890493676219811162
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_11
+  - first:
+      213: 7996084325128331217
+    second: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 155
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33356ae3ee5be404f80e7edab72e6ef8
+      internalID: -7648216084813964087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 157
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70acfc30674bc242939ab102d7239e4
+      internalID: -4481581051255284106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 157
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eeeb7607edce74789e28d617c85698
+      internalID: -7326988813848631507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 158
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6011838148276204d8d1635e66058761
+      internalID: -6155774431474726362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 156
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2db64c70ccc82c438c4b25c15e396ca
+      internalID: 7318847455940156897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 156
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737bac124abd084c945cc8fbfd08e9a
+      internalID: 1513179563034314545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 120
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5ce318b8c607a43a07909aec6237d9
+      internalID: 6476070664510922623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 121
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490cdfd087054ca4aa5c0ce6de9ac2c2
+      internalID: 3193793614941224249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 118
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb64cc5f509bda3429d624f66cf96347
+      internalID: 6757644817132721042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4ac0746286ae42ad6e52a9a7e1d8d
+      internalID: -6308551410688990027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 119
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1393a6d1a35024a9199a951d8ba28e
+      internalID: 52779255656855173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 118
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaf7bffe00e579419dda53735750ac6
+      internalID: -5890493676219811162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-open-source-unicode-typefaces-sans-serif-typography-font-lucida-sans-unicode-typeface-sans-serif-VKbaXLChrkn8ikbmEtgm87DaP_t_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 117
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6b0d0daabfd5749b23eb24c6bd75e6
+      internalID: 7996084325128331217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 68e9b059c76be97489a442b570466c38
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
