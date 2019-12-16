@@ -24,12 +24,12 @@ public class SetCameraTrigger : MonoBehaviour
                 // Porto la sua priority a un valore superiore a quello delle rimanenti camere 
                 if (GameManager.instance.cameraManager.virtualCameras[i] == virtualCamera)
                 {
-                    GameManager.instance.cameraManager.virtualCameras[i].m_Priority = GameManager.instance.cameraManager.virtualCameras.Count;
+                    GameManager.instance.cameraManager.virtualCameras[i].Priority = GameManager.instance.cameraManager.virtualCameras.Count;
                     GameManager.instance.cameraManager.currentCamera = GameManager.instance.cameraManager.virtualCameras[i];
                 }
                 else
                 {
-                    GameManager.instance.cameraManager.virtualCameras[i].m_Priority = i;
+                    GameManager.instance.cameraManager.virtualCameras[i].Priority = 0;
                 }
             }
         }

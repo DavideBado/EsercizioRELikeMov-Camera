@@ -12,4 +12,13 @@ public class CameraManager : MonoBehaviour
     /// </summary>
     public List<CinemachineVirtualCamera> virtualCameras = new List<CinemachineVirtualCamera>();
     public CinemachineVirtualCamera currentCamera;
+
+    private void Start()
+    {
+        for (int i = 0; i < virtualCameras.Count; i++)
+        {
+            virtualCameras[i].Priority = 0;
+        }
+        currentCamera.Priority = 10;
+    }
 }

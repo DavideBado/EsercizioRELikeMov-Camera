@@ -28,45 +28,31 @@ public class PlayerController : MonoBehaviour
 
     private void CheckInput()
     {
+        Vector3 forwardpos = Vector3.zero;
+        Vector3 rightpos = Vector3.zero;
+
         //Modifico la destinazione del player in base al tasto che  viene premuto
         if (Input.GetKey(LeftKey))
         {
-            agent.destination = new Vector3(agent.destination.x - Deltadist * GameManager.instance.cameraManager.currentCamera.transform.right.x, agent.destination.y, agent.destination.z);
+            rightpos = - transform.right;
         }
         //Modifico la destinazione del player in base al tasto che  viene premuto
         if (Input.GetKey(RightKey))
         {
-            agent.destination = new Vector3(agent.destination.x + Deltadist * GameManager.instance.cameraManager.currentCamera.transform.right.x, agent.destination.y, agent.destination.z);
+            rightpos = transform.right;
         }
         //Modifico la destinazione del player in base al tasto che  viene premuto
         if (Input.GetKey(UpKey))
         {
-            agent.destination = new Vector3(agent.destination.x, agent.destination.y, agent.destination.z + Deltadist * GameManager.instance.cameraManager.currentCamera.transform.forward.z);
+            forwardpos = transform.forward;
         }
         //Modifico la destinazione del player in base al tasto che  viene premuto
         if (Input.GetKey(DownKey))
         {
-            agent.destination = new Vector3(agent.destination.x, agent.destination.y, agent.destination.z - Deltadist * GameManager.instance.cameraManager.currentCamera.transform.forward.z);
+            forwardpos = - transform.forward;
         }
-        //Fermo il movimento del player nella in base al tasto che non viene più premuto
-        if (Input.GetKeyUp(LeftKey))
-        {
-            agent.destination = new Vector3(agent.transform.position.x, agent.destination.y, agent.destination.z);
-        }
-        //Fermo il movimento del player nella in base al tasto che non viene più premuto
-        if (Input.GetKeyUp(RightKey))
-        {
-            agent.destination = new Vector3(agent.transform.position.x, agent.destination.y, agent.destination.z);
-        }
-        //Fermo il movimento del player nella in base al tasto che non viene più premuto
-        if (Input.GetKeyUp(UpKey))
-        {
-            agent.destination = new Vector3(agent.destination.x, agent.destination.y, agent.transform.position.z);
-        }
-        //Fermo il movimento del player nella in base al tasto che non viene più premuto
-        if (Input.GetKeyUp(DownKey))
-        {
-            agent.destination = new Vector3(agent.destination.x, agent.destination.y, agent.transform.position.z);
-        }
+
+        agent.destination = transform.position + forwardpos + rightpos;
+        
     }
 }
